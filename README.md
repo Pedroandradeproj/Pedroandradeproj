@@ -40,7 +40,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://pixabay.com/pt/gifs/inverno-neve-panorama-%C3%A1rvore-1783/" alt="Imagem">
+  <img align="center" src="https://pixabay.com/gifs/get/gabe7511ab79aa3693948c9d5acd002e6fc1cff67c1757834bd4e6502a42b8c5b665179aa93edaeb91331b2080a509b22_256.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
