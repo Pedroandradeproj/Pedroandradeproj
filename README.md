@@ -1,25 +1,23 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá 🙌🏼 </h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Olá 👋, sou o Pedro! Um apaixonado estudante de Ciência de Dados do Brasil.
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+   - 🌱 Atualmente estou estudando Analise De Sistema e Análise de Dados.
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com IA e Machine Learning.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡Gosto de ler, seja mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
 </details>
 
 <!-- Links -->
@@ -40,7 +38,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://pixabay.com/gifs/get/gabe7511ab79aa3693948c9d5acd002e6fc1cff67c1757834bd4e6502a42b8c5b665179aa93edaeb91331b2080a509b22_256.gif" alt="Imagem">
+  <img align="center" src="https://pixabay.com/gifs/get/gba884e3226603b7e2ef4616a641df9f117d260d6172fdc4efa3a7ef515c10c864eede021c9402e478cb66389c21f1d04_256.gif" alt="Imagem">
 </p>
 
 ## 🔥 Skills
