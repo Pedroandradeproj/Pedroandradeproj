@@ -61,10 +61,10 @@
 <div style="flex-basis: 48%;">
   <h3>Ferramentas e Frameworks</h3>
   <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
   <p style="font-size: 20px; font-weight: bold;">VirtualBox</p>
   <p style="font-size: 20px; font-weight: bold;">Canva</p>
   <p style="font-size: 20px; font-weight: bold;">MidJourney</p>
-  <img align="center" alt="ChatGPT" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg">
   <p style="font-size: 20px; font-weight: bold;">LibreOffice</p>
   <p style="font-size: 20px; font-weight: bold;">TeamViewer</p>
   <p style="font-size: 20px; font-weight: bold;">AnyDesk</p>
