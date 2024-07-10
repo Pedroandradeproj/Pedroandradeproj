@@ -10,6 +10,7 @@
 
    - 🌱 Atualmente estou me especializando em Análise de Dados.
    - 🔭 Estou trabalhando como instrutor na Microlins, ministrando aulas de informática básica e outros cursos.
+   - 🌟 Em um mundo cada vez mais digital, o profissional não perderá seu emprego devido à tecnologia; ele perderá se não aprender a utilizar a tecnologia a seu favor. Adaptar-se e adquirir novas habilidades tecnológicas é essencial para se manter relevante no mercado de trabalho.
 </p>
 
 <!-- Sobre Mim (Dropdown) -->
