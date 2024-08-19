@@ -17,9 +17,12 @@
 <details>
   <summary>👨‍💻 Sobre Mim</summary>
   <p>
-    - ⚡ Gosto de ler, seja mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
+    - ⚡ Sou apaixonado por leitura, seja mangá, quadrinhos, filmes ou jogos. Acredito que nossos interesses pessoais ampliam nossa visão de mundo e aprimoram nossa capacidade de resolver problemas de forma criativa.
+  </p>
+  <p>- 🛠️ Como cofundador da MPsolutions-br, estou empenhado em transformar a educação e os serviços de desenvolvimento de software. Nossa startup se dedica a oferecer soluções educacionais personalizadas e serviços de desenvolvimento de software que atendem às necessidades únicas de cada cliente.
   </p>
 </details>
+
 
 <!-- Links Sociais -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedroandradesales/)
