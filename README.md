@@ -69,7 +69,7 @@
   <p style="font-size: 20px; font-weight: bold;">VirtualBox</p>
   <p style="font-size: 20px; font-weight: bold;">Canva</p>
   <p style="font-size: 20px; font-weight: bold;">MidJourney</p>
-  <p style="font-size: 20px; font-weight: bold;">LibreOffice</p>
+  <p style="font-size: 20px; font-weight: bold;">Pacote Office</p>
   <p style="font-size: 20px; font-weight: bold;">TeamViewer</p>
   <p style="font-size: 20px; font-weight: bold;">AnyDesk</p>
 </div>
